@@ -18,7 +18,7 @@ The tool performs basic statistical analysis, generates visualizations, and dete
 ![Temperature](temperature_plot.png)
 
 ### Pressure Trend
-![Pressure](pressure_plot.png)
+![Pressure](pressure_plot(1).png)
 
 ### Flow Rate
 ![Flow](flow_plot.png)
