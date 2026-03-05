@@ -1,0 +1,12 @@
+Engineering Summary
+------------------
+Samples: 50
+Time range (s): 0 to 490
+
+Temperature (°C): avg=25.60, min=21.90, max=29.40
+Pressure (bar):   avg=1.034, min=1.000, max=1.070
+Flow (L/min):     avg=11.94, min=9, max=15
+
+Moving average window: 5 samples
+Anomaly rule: abs(temp - moving_average) > 1.5 °C
+Detected anomalies: 30
